@@ -1,0 +1,1 @@
+# Time-Series-Analysis-and-Volatility-Modeling-of-Nifty-50-An-Application-of-ARCH-and-GARCH-Models
