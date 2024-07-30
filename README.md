@@ -7,7 +7,7 @@ This project involves analyzing and modeling the time series data of Nifty 50 us
 The project includes the following components:
 
 ### 1. Data Preparation
-- **[nifty.png](Images/nifty.png)**: Visualization of Nifty 50 data over time.
+- **[nifty.png](/Images/nifty.png)**: Visualization of Nifty 50 data over time.
 - **[nifty train test.png](Images/nifty%20train%20test.png)**: Split of the data into training and testing sets.
 - **[logreturn.png](Images/logreturn.png)**: Logarithmic returns of Nifty 50.
 
