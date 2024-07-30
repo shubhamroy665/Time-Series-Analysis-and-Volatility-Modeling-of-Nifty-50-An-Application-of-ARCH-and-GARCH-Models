@@ -7,7 +7,7 @@ This project involves analyzing and modeling the time series data of Nifty 50 us
 The project includes the following components:
 
 ### 1. Data Preparation
-- **[nifty.png](Time%20Series%20Analysis%20and%20Volatility%20Modeling%20of%20Nifty%2050%20An%20Application%20of%20ARCH%20and%20GARCH%20Models/Images/nifty.png)**: Visualization of Nifty 50 data over time.
+- **[nifty.png](Images/nifty.png)**: Visualization of Nifty 50 data over time.
 - **[nifty train test.png](Time%20Series%20Analysis%20and%20Volatility%20Modeling%20of%20Nifty%2050%20An%20Application%20of%20ARCH%20and%20GARCH%20Models/Images/nifty%20train%20test.png)**: Split of the data into training and testing sets.
 - **[logreturn.png](Time%20Series%20Analysis%20and%20Volatility%20Modeling%20of%20Nifty%2050%20An%20Application%20of%20ARCH%20and%20GARCH%20Models/Images/logreturn.png)**: Logarithmic returns of Nifty 50.
 
